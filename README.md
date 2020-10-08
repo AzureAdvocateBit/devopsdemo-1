@@ -31,4 +31,4 @@ provided by the bot. You will only need to do this once across all repos using o
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/?WT.mc_id=devopsdemo-github-ropreddy).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/?WT.mc_id=devopsdemo-github-ropreddy) or
-contact [opencode@https://microsoft.com/?WT.mc_id=devopsdemo-github-ropreddy](mailto:opencode@https://microsoft.com/?WT.mc_id=devopsdemo-github-ropreddy) with any additional questions or comments.
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
