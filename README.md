@@ -1,7 +1,7 @@
 
 # Axe + Azure Pipelines: Automate accessibility testing in your CI builds
 
-This repository contains sample projects (see next section [Available samples](#available-samples)) demonstrating how to implement automated accessibility testing in [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) builds using [axe-core](https://github.com/dequelabs/axe-core), the same accessibility scanning engine used in [Accessibility Insights for Web](https://accessibilityinsights.io/docs/en/web/overview).
+This repository contains sample projects (see next section [Available samples](#available-samples)) demonstrating how to implement automated accessibility testing in [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/?WT.mc_id=devopsdemo-github-ropreddy) builds using [axe-core](https://github.com/dequelabs/axe-core), the same accessibility scanning engine used in [Accessibility Insights for Web](https://accessibilityinsights.io/docs/en/web/overview).
 
 ## Available samples
 
@@ -23,12 +23,12 @@ Automated accessibility tests can detect some common accessibility problems such
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+the rights to use your contribution. For details, visit https://cla.microsoft.com/?WT.mc_id=devopsdemo-github-ropreddy.
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
 provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/?WT.mc_id=devopsdemo-github-ropreddy).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/?WT.mc_id=devopsdemo-github-ropreddy) or
+contact [opencode@https://microsoft.com/?WT.mc_id=devopsdemo-github-ropreddy](mailto:opencode@https://microsoft.com/?WT.mc_id=devopsdemo-github-ropreddy) with any additional questions or comments.
